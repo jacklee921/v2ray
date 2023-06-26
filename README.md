@@ -1,3 +1,3 @@
 # v2ray
 
-Proxy for internal use of SNZ companies
+Proxy for internal use of SNZ
